@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Abstract Life</string>
+    <string name="birth_year">Enter birth year(YYYY):</string>
+    <string name="birth_month">Enter birth month(1-12):</string>
+    <string name="birth_day">Enter day of birth(1-31):</string>
+    <string name="calculate">Calculate</string>
+    <string name="you_have_been_alive">You have been alive for...</string>
+    <string name="seconds">Seconds</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="empty"></string>
+</resources>
