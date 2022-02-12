@@ -1,2 +1,2 @@
 # myabstractlife
- Android App
+ Android App utilizing JNI call to C++
